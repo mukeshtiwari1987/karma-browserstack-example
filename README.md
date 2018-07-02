@@ -40,3 +40,4 @@ Execute the following command to run the karma tests:
 
 [dashboard]:https://www.browserstack.com/automate
 [karma issue]:https://github.com/karma-runner/karma/issues/983
+
